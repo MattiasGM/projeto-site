@@ -1,5 +1,7 @@
 * {
-    font: fantasy 1.2em white;
+    font-family: fantasy;
+    font-size: 1.2em;
+    color: white;
 }
 
 body {
