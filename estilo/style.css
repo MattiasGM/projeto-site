@@ -1,0 +1,16 @@
+* {
+    font: fantasy 1.2em white;
+}
+
+body {
+    background: rgba(182, 153, 209, 0.753);
+}
+
+main {
+    background: #121212;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px black;
+
+    margin: auto;
+    padding: 20px;
+}
